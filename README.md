@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Java Developer passionate about building robust, scalable, and maintainable applications.<br><br>💻 Tech Stack:<br><br>Backend: Java, Spring Boot, Hibernate<br><br>Frontend: HTML, CSS, JavaScript<br><br>Database: PostgreSQL<br><br>🚀 I love working on clean architecture, secure authentication systems, and efficient database design. I'm especially interested in crafting full-stack web applications and RESTful APIs.<br><br>🛠️ Currently improving my skills in Spring ecosystem and exploring modern best practices in software development.<br><br>📚 Always learning, always building.
+👋 Hi there! I'm a Java Developer passionate about building robust, scalable, and maintainable applications.<br>🚀 I love working on clean architecture, secure authentication systems, and efficient database design. I'm especially interested in crafting full-stack web applications and RESTful APIs.<br><br>🛠️ Currently improving my skills in Spring ecosystem and exploring modern best practices in software development.<br><br>📚 Always learning, always building.
 
 
 # 💻 Tech Stack:
